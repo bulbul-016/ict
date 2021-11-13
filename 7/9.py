@@ -1,0 +1,5 @@
+h=int(input())
+a=int(input())
+r=int(a*100/h)
+if r>=75: print('Your attended classes persent is '+str(r)+', you can go to exam!')
+else: print('Your attended classes persent is '+str(r)+', you can not go to exam!')
