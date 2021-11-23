@@ -1,0 +1,2 @@
+nums=input().split('or')
+
